@@ -7,7 +7,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 This code is the implementation of a project that I have worked on for the [Barton Research Group](https://brg.engin.umich.edu/research/robotic-smart-manufacturing).
-In this project we studied how Transformer Blocks that are set operators are particularly well suited for Point-Clouds and thus can make Auto-Encoders very efficient on point clouds, conserving their permutation invariance. We also worked on a concrete application of our method for Robot Grasping.
+In this project we studied how Transformer Blocks that are set operators are particularly well suited for Point-Clouds and thus can make Auto-Encoders very efficient on point clouds, conserving their permutation invariance. We also worked on a concrete application of our method for Robot Grasping. Find the written repport of this report [here](https://leobringer.files.wordpress.com/2023/09/ptae.pdf).
 
 &nbsp;
 
@@ -42,7 +42,7 @@ In this project we studied how Transformer Blocks that are set operators are par
 
 # Concepts
 
-Most of the concepts are described quite in depth in the paper (reference the paper) but here is a quick summary of the main concepts exploited in this project:
+Most of the concepts are described quite in depth in the paper but here is a quick summary of the main concepts exploited in this project:
 
 * **Point-Cloud processing**. Point cloud processing involves handling and analyzing data that represents a set of points in three-dimensional space. Each point in the cloud typically contains information about its spatial coordinates and may include additional attributes like color or intensity. Point cloud processing techniques are used in various applications such as 3D reconstruction, object recognition, autonomous driving, and environmental modeling. The goal is to extract meaningful information, perform geometric analysis, and apply machine learning algorithms to understand and interact with the 3D world captured by the point cloud data.
 
